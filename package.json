@@ -98,7 +98,10 @@
     },
     "slug": "subway-station",
     "subgroup": "misc",
-    "title": "Subway Station - (Almost) Free Terraform SaaS Configurations"
+    "title": "Subway Station - (Almost) Free Terraform SaaS Configurations",
+    "github_id": "R_kgDOHRvNyQ",
+    "gitlab_project_id": "35594472",
+    "gitlab_group_id": "3940994"
   },
   "changelog": {
     "displayTypes": [
